@@ -13,3 +13,4 @@ A comprehensive set of samples of creating and using MCP servers and clients wit
 // keep defaults in sync with the manifest
 // drop an unused branch
 // clarify the control flow
+// drop an unused branch
