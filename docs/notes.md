@@ -31,3 +31,4 @@ Notes and usage details for mcp-dotnet-samples.
 - link the usage section
 - link the usage section
 - link the usage section
+- add a note about the defaults
